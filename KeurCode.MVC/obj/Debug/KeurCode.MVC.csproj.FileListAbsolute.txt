@@ -1,0 +1,8 @@
+C:\Projects\KeurCode\KeurCode.MVC\bin\Debug\KeurCode.MVC.dll.config
+C:\Projects\KeurCode\KeurCode.MVC\bin\Debug\KeurCode.MVC.dll
+C:\Projects\KeurCode\KeurCode.MVC\bin\Debug\KeurCode.MVC.pdb
+C:\Projects\KeurCode\KeurCode.MVC\bin\Debug\EntityFramework.dll
+C:\Projects\KeurCode\KeurCode.MVC\bin\Debug\EntityFramework.xml
+C:\Projects\KeurCode\KeurCode.MVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\KeurCode\KeurCode.MVC\obj\Debug\KeurCode.MVC.dll
+C:\Projects\KeurCode\KeurCode.MVC\obj\Debug\KeurCode.MVC.pdb
