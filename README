@@ -1,0 +1,13 @@
+KeurCode contains code that I use in many of my projects.
+
+Contents
+--------
+
+KeurCode:
+
+Repository Pattern interfaces
+Base Repository Class for Entity Framework based Repositories
+
+KeurCode MVC:
+
+Basic ASP.Net membership/role providers to use Users from dbo.Users table instead of ASP.Net default database.
